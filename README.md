@@ -19,4 +19,4 @@ So we update the QR code soon.
 
 If you want to have the QR code. (To keep the QR code safety) Follow this project, and we will send you offline.
 
-Remember keep the QR code as a secret.
+**Remember keep the QR code as a secret.**
