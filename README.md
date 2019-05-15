@@ -1,5 +1,5 @@
-# FIP
-fuck innoplus
+# F1P
+fuck 1nn0plus
 
 The InnoPlus APP is awful and stupid!
 
