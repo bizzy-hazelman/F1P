@@ -13,7 +13,7 @@ first static QR code to pass the gateway
 
 ## 2018-05-15
 
-The innoplus updated and banned the first static QR code
+I heard from my friends that someone showed the existence of the QR code to the innoplus. The innoplus updated the app and banned the first static QR code.
 
 So we update the QR code soon.
 
